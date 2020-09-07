@@ -25,6 +25,12 @@
     color: black;
    }
 
+   ul li {
+    width:25em;
+    float: left;
+    margin-left: 100px;
+  }
+
   footer {
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -67,4 +73,8 @@
     display: table;
     margin: 0 auto;
     text-align: left;
+  }
+
+  p{
+    font-size: medium;
   }
